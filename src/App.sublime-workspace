@@ -1,0 +1,255 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"justify",
+				"justify-content"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"brown",
+				"sandybrown"
+			],
+			[
+				"dark",
+				"darkblue"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"content",
+				"align-content"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"light",
+				"lightsteelblue"
+			],
+			[
+				"sky",
+				"skyblue"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"react",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"REACT",
+				"Package Control: Create Package File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ccs/Documents/jobillee/style.css",
+		"/C/Users/ccs/Documents/jobillee/mainfeature2.html",
+		"/C/Users/ccs/Documents/jobi",
+		"/C/Users/ccs/Documents/Umbao/QUIZ 17/log in.html",
+		"/C/Users/ccs/Documents/Umbao/QUIZ 17/Style.css",
+		"/C/Users/ccs/Documents/Umbao/QUIZ 17/index.html",
+		"/C/Users/ccs/Documents/Umbao/dashboard/stytle.css",
+		"/C/Users/ccs/Documents/Umbao/dashboard/dashboard.html",
+		"/C/Users/ccs/Documents/Umbao/assignments/style.css",
+		"/C/Users/ccs/Documents/Umbao/assignments/index.html",
+		"/C/Users/ccs/Documents/Umbao/assignments/loading.png.png",
+		"/C/Users/ccs/Documents/Umbao/assignments/logo.jpg.jpg",
+		"/C/Users/ccs/Documents/Umbao/index.html",
+		"/C/Users/ccs/Documents/Umbao/Style.css",
+		"/C/Users/ccs/Documents/Umbao/css.style.css",
+		"/C/Users/ccs/Documents/Umbao/css.style.html",
+		"/C/Users/ccs/Documents/Umbao/css.style quiz 17",
+		"/C/Users/ccs/Desktop/geniejemscodes/Umbao",
+		"/C/Users/ccs/Desktop/HCIGadapan/style.css",
+		"/C/Users/ccs/Downloads/flower logo.jpg",
+		"/C/Users/ccs/Desktop/geniejemscodes/GENIEJAMESARSENALCODES"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
